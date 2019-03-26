@@ -1,0 +1,1 @@
+This is my first attempt at duplicating the google homepage. This was done without copying any source code. 

@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+li {
+    display: inline;
+}
+.right {
+    float: right;
+}
+.left {
+    float: left;
+    padding: 2px;
+}
+.drop {
+    position:relative;
+    top: 240px;
+}
